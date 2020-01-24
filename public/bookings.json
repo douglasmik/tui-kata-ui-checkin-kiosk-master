@@ -1,0 +1,39 @@
+[
+  {
+    "_id": 12345,
+    "roomNumber": 101,
+    "name": "Michael",
+    "lastName": "Douglas",
+    "otherPassengers": [
+      "Katrina Douglas",
+      "Micaiah Douglas",
+      "Maya Douglas"
+    ] 
+  },
+  {
+    "_id": 98765,
+    "roomNumber": 201,
+    "name": "Chris",
+    "lastName": "Rea",
+    "otherPassengers": [] 
+  },
+  {
+    "_id": 67584,
+    "roomNumber": 301,
+    "name": "Dan",
+    "lastName": "Garfield",
+    "otherPassengers": [
+      "Kishore Nalawade"
+    ] 
+  },
+  {
+    "_id": 45362,
+    "roomNumber": 150,
+    "name": "Christos",
+    "lastName": "Tsiotras",
+    "otherPassengers": [
+      "Aimee Treslove"
+    ] 
+  }
+]
+
